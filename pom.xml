@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>business-merchandising</module>
+        <module>business-data</module>
     </modules>
 
     <parent>
